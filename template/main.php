@@ -72,6 +72,8 @@ include_once 'header.php';
                 </ul>
 
             </div>
+            </div>
+            </div>
 
             <?php
             include_once 'sidebar';
